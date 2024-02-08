@@ -11,5 +11,8 @@ Please follow the below mentioned steps to execute the program
       Windows  - .venv\Scripts\activate
    
 5. Install the required libraries - pip install -r requirements.txt
-   
+
 6. Run the application - streamlit run app.py
+
+Output Image - 
+![Image Description](sample_data/images/output.png)
